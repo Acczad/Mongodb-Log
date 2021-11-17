@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31815.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sana.Log.Abstraction", "Sana.Log.Abstraction\Sana.Log.Abstraction.csproj", "{8C20CC54-6CFC-4624-9843-5F6AD2B0F6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sana.LogSample", "Sana.LogSample\Sana.LogSample.csproj", "{9DF11ECC-4F70-46FC-9505-2D20CD239D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C20CC54-6CFC-4624-9843-5F6AD2B0F6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C20CC54-6CFC-4624-9843-5F6AD2B0F6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C20CC54-6CFC-4624-9843-5F6AD2B0F6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C20CC54-6CFC-4624-9843-5F6AD2B0F6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF11ECC-4F70-46FC-9505-2D20CD239D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF11ECC-4F70-46FC-9505-2D20CD239D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF11ECC-4F70-46FC-9505-2D20CD239D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF11ECC-4F70-46FC-9505-2D20CD239D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B05E4E-2907-4B97-A130-288A359BB0AD}
+	EndGlobalSection
+EndGlobal
